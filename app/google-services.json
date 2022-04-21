@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106472206892",
+    "project_id": "real-time-monitoring-7904a",
+    "storage_bucket": "real-time-monitoring-7904a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106472206892:android:a036f3c914931229db9789",
+        "android_client_info": {
+          "package_name": "com.example.realtimemonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106472206892-c5j4n57j3uik7k5a4hn4l72nho3v5fb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYSCZHNnYnOxrEO-EUWIaMSz21xqDfshA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106472206892-c5j4n57j3uik7k5a4hn4l72nho3v5fb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
